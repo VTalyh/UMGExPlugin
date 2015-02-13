@@ -1,4 +1,4 @@
-// Copyright 2014 Michael Allar. All Rights Reserved.
+//Copyright(c) 2015 Michael Allar
 #pragma once
 
 #include "UMGExTypes.h"

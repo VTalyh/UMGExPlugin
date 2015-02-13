@@ -6,7 +6,7 @@
 	"VersionName" : "1.0",
 	"CreatedBy" : "Michael Allar",
 	"CreatedByURL" : "http://allarsblog.com",
-	"EngineVersion" : "4.5.0",
+	"EngineVersion" : "4.7.0",
 	"Description" : "Defines extra UMG widgets for use in more dynamic and simpler widget creation",
 	"Category" : "User Interface",
 	"EnabledByDefault" : true,
